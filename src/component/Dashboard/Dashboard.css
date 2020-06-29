@@ -1,0 +1,34 @@
+.body1{
+    background-color:#55C7A1;
+}
+.active {
+    background-color: #55C7A1;  
+  }
+  
+  .inactive {
+    background-color: #FFFFFF;
+  }
+  
+  .button1{
+      display:flex;
+      justify-content: space-around;
+      padding: 2em 25px;
+  }
+  .button2{
+    border-radius: 8px;
+    width: 100px;
+    height:50px;
+  }
+  .next1{
+      
+    border-radius: 18px;
+    background-color:#55C7A1 ;
+    width:50px;
+    height:50px;
+
+  }
+  .next2{
+    display:flex;
+    flex-direction: column-reverse;
+  }
+  
